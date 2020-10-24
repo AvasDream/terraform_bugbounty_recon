@@ -3,3 +3,8 @@ telegram.id
 
 recon-*
 *.txt
+*.pem
+variables.tf
+.terraform
+.terraform*
+terraform*
